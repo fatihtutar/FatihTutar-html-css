@@ -1,0 +1,75 @@
+body{
+  width: 100%;
+  height: 100%; 
+  float: center;
+  background-image: url("https://www.adorama.com/alc/wp-content/uploads/2017/11/shutterstock_114802408-825x465.jpg");
+  background-size: cover;
+  background-position:center;
+  padding: 0;
+}
+.personal{
+  width: 100%;
+  height: 100%; 
+  float: center;
+  border:1px solid rgb(190, 209, 189);
+  background-image: url("https://www.adorama.com/alc/wp-content/uploads/2017/11/shutterstock_114802408-825x465.jpg");
+  background-size: cover;
+  background-position:center;
+  position: static;
+  font-family: 'Times New Roman', Times, serif;
+  text-align: left;
+  font:15px;
+  padding-top:0px;
+}
+.ft-img {
+  width: 180px;
+  height:200px;
+  padding:0px;
+}
+#experience{
+  border: solid 3px rgb(146, 67, 67);
+  }
+#education{
+  border-radius: 5%;
+  border: solid 3px rgb(146, 67, 67);
+}
+#certificates{
+  border: solid 3px rgb(146, 67, 67);
+  padding-left: 30%;
+}
+#languages{
+  width: 100%;
+  height: 100%; 
+  float: center;
+  background-image: url("https://blog.oxforddictionaries.com/wp-content/uploads/country-flags-1200x330.jpg");
+  background-size: cover;
+  background-position:center;
+  border: solid 3px rgb(146, 67, 67, 0.8);
+}
+#languages ul{
+  font-size: 15px;
+  font-weight: bold;
+  color: rgb(236, 245, 241);
+  margin-left:38%;
+  width: 276px;
+}
+#contact{
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+  padding-left: 41%;
+}
+h1{
+text-align:center; 
+width: 100%;
+height: 100;
+background-color: blue;
+color: white;
+}
+thead{
+  text-align: center;
+}
+a{
+  color:brown;
+}
+

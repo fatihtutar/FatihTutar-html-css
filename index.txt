@@ -1,0 +1,160 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Fatih Tutar Resume</title>
+        <meta charset="UTF-8">
+        <link href="style.css" type="text/css" rel="stylesheet">
+    </head>
+    <body>
+    <header>
+            <img src="C:\Users\fht\Desktop/Fatih Tutar-Photo.jpg" alt="Fatih Tutar">
+            <h1 id= "Top"><strong>Fatih Tutar</strong></h1>
+            <p><em>06 July 1978<br>Ankara - Turkey</em></p>
+    </header>
+        <nav  id= "Index">
+            <ul>
+                <!-- Photos section will also be added. -->
+                <li><a href="#Summary">Summary</a></li>
+                <li><a href="#Experience">Experience</a></li>
+                <li><a href="#Educations">Education</a></li>
+                <li><a href="#Contact">Contact</a></li>
+                <li><a href="#Certificates">Certificates</a></li>
+                <li><a href="#Languages">Languages</a></li>
+            </ul>
+        </nav>
+        <div id= "Summary">
+            <h1>Summary</h1>
+            <h2>NATO OPS and EX Planner</h2>
+            <h2>Staff Officer</h2>
+            <h2>Military Flight Experience for 16 years</h2>
+            <h2>Advanced Computer Skills</h2>
+            <a href="#Top">Home</a> 
+        </div>
+        <div id= "Experience">
+            <h1>Experience</h1>
+            <h2>NATO OPS and EX Planner :</h2>
+            <ul>
+                <li>Experienced in joint/comprehensive planning of NATO operations and exercises.</li>
+                <li>Experienced in tactical to strategic level operations planning.</li>
+                <li>Experienced in counter insurgency operations.</li>
+            </ul>  
+            <h2>Staff Officer :</h2>
+            <ul>
+                <li>Experienced in preparation of multinational and inter-organizational events (seminars, briefings, conferences etc.) </li>
+                <li>Experienced in coordination of protocol issues ( preparation of invitations/ contact visitors and host on behalf of Commander).</li>
+                <li>Experienced in working under pressure in the unpredictable/complex environment .</li>
+                <li>Experienced in people management and team working.</li>
+            </ul>
+            <h2>Military Flight Experience for 16 years: </h2>
+            <ul>    
+                <li>1500 hours experienced as fix wing and rotor wing aircraft pilot as First Officer. </li>
+                <li>750 hours <span>T182T Skylane</span> ,T-41(Cessna 172) U-27 ( including 200 hours IFR+Simulator). </li>
+                <li>750 hours on <span>UH-1</span>UH-1 Helicopter (including 200 hours Night Vision Google) </li>
+            </ul>
+            <h2>Computer Skills:</h2>
+            <ul>    
+                <li>Used Microsoft Office programs extensively.</li>
+                <li>Knowledge of HTML, CSS and JavaScript</li>
+            </ul>
+            <a href="#Top">Home</a>
+        </div>
+        <div id= "Educations">
+            <h1>Education</h1>
+            <table border="1">
+                <thead>
+                    <tr>
+                        <th>Year</th>
+                        <th>School</th>
+                        <th>Branch</th>
+                        <th>Result</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>2012-2013</td>
+                        <td>Armed Forces Higher Command and Management College</td>
+                        <td>International Security and Strategic Management</td>
+                        <td>Graduation Project "Unmanned Air Vehicles"</td>
+                    </tr>
+                    <tr>
+                        <td>2008-2010</td>
+                        <td>Army War Academy</td>
+                        <td>Master of National and International Security Strategy Management and Leadership</td>
+                        <td>Thesis:"Turkey's EU Memebership"</td>
+                    </tr>
+                    <tr>
+                        <td>2005-2006</td>
+                        <td>Beykent University</td>
+                        <td>Master of International Relations /Social Science</td>
+                        <td>Thesis:"Human Smuggling"</td>
+                    </tr>
+                    <tr>
+                        <td>2001-2009</td>
+                        <td>Army Aviation School</td>
+                        <td>T-182 Skylane Cessna/ UH-1 Helicopter/ U-17 / T-41 Cessna Flight Courses(*)</td>
+                        <td>Fix-wing and Rotor-wing Aircraft Pilot-First Officer</td>
+                    </tr>
+                    <tr>
+                        <td>1996-2000</td>
+                        <td>Tur Military Academy</td>
+                        <td>System Engineering</td>
+                        <td>System Engineer Bachelor Degree</td>
+                    </tr>
+                <tfoot>
+                    <td colspan="4"><em>* These courses are accomplished in different years between the indicated years</em></td>
+                </tfoot>
+                </tbody>
+            </table>    
+        <a href="#Top">Home</a>
+        </div>
+        <div id= "Certificates">
+            <h1>Certificates</h1>
+            <ul>
+                <li><strong><span>PMI</span> - Project Management Professional Training Certificate</strong><br><em>İstanbul Kurumsal Gelisim (PMP REP Institute), Turkey 2015.</em></li>
+                <li><strong>Comprehensive Operations Planning Course Certificate</strong><br><em>NATO School Oberammergau, Germany 2015.</em></li>
+                <li><strong>NATO Exercise Planning Certificate</strong><br><em>NATO School Oberammergau, Germany 2015.</em></li>                
+                <li><strong>Major Events List/Major Incidents List (MEL/MIL) Course -JEMM Certificate</strong><br><em>NATO Communications and Information Agency (NCI Agency) Netherland 2015.</em></li>
+            </ul>
+            <a href="#Top">Home</a>
+        </div>
+        <div id= "Languages">
+            <h1>Languages</h1>
+            <ul>
+                <li><strong>English</strong> Full professional proficiency</li>
+                <li><strong>Dutch</strong> B2 level</li>
+                <li><strong>French</strong> B1 level</li>
+                <li><strong>German and Polish</strong> Elementary level</li>
+                <li><strong>Turkish</strong> Native proficiency</li>
+            </ul>
+            <a href="#Top">Home</a>
+        </div>
+    <footer>
+        <div id= "Contact">
+            <h1>Contact</h1>
+                <table border="1">
+                    <tbody>
+                        <tr>
+                            <th>Address</th>
+                            <td>Brussels</td>
+                        </tr>
+                        <tr>
+                            <th>Email</th>
+                            <td>tutarfatih@gmail.com</td>
+                        </tr>
+                        <tr>
+                            <th colspan="2">Phone Nu.</th>
+                        </tr>
+                        <tr>
+                            <th>+32 485269311</th>
+                            <th>+48 485269311</th>
+                        </tr>
+                    </tbody>
+                    <tfoot>
+                        <td colspan="2"><em>Valid as of 20/03/2019</em></td>
+                    </tfoot>
+                </table>
+            <a href="#Top">Home</a>
+        </div>
+    </footer>    
+    </body>
+</html>
